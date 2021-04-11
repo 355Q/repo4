@@ -1,1 +1,2 @@
 This is example 2 from vscode
+Example 2 is another test file
